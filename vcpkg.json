@@ -6,6 +6,7 @@
     "pugixml",
     "zlib",
     "zstd",
+     "glm",
     {
       "name": "libzip",
       "default-features": false
